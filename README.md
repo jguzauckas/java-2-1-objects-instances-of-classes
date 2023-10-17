@@ -1,4 +1,4 @@
-# AP Computer Science A - Chapter 2 Section 1
+# AP Computer Science A - Unit 2 Section 1
 
 # Objects: Instances of Classes
 
